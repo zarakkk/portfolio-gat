@@ -27,7 +27,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
+        name: `Zarak Portfolio`,
         short_name: `Zarak`,
         description: `I'm a web developer and designer that will improve the UI, UX and interactions of your website`,
         start_url: `/`,
