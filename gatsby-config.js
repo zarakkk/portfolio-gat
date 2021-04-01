@@ -29,7 +29,7 @@ module.exports = {
       options: {
         name: `Zarak Portfolio`,
         short_name: `Zarak`,
-        description: `I'm a web developer and designer that will improve the UI, UX and interactions of your website`,
+        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
